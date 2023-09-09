@@ -5,8 +5,13 @@ body {
     font-family: 'NanumSquare';
 }
 
-.w-100 {
+.w-170 {
     height:  170px;
+    border-radius: 16px;
+}
+
+.w-10 {
+    height:  70px;
     border-radius: 16px;
 }
 
